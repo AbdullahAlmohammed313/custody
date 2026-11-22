@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1795016958605,
+      "tag": "0000_thin_tarot",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1795024851445,
+      "tag": "0001_admin_plugin",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1795024855262,
+      "tag": "0002_drop_is_active",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1795027758542,
+      "tag": "0003_db_rules",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1795029369729,
+      "tag": "0004_username_and_password_change",
+      "breakpoints": true
+    }
+  ]
+}
